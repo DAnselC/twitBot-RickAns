@@ -1,0 +1,19 @@
+{
+  "name": "twitbot-rickans",
+  "version": "1.0.0",
+  "description": "A twitter bot by Richard Graham and Ansel Colby",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DAnselC/twitBot-RickAns.git"
+  },
+  "author": "Ansel Colby, Richard Graham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DAnselC/twitBot-RickAns/issues"
+  },
+  "homepage": "https://github.com/DAnselC/twitBot-RickAns#readme"
+}
