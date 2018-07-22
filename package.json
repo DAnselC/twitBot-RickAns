@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DAnselC/twitBot-RickAns/issues"
   },
-  "homepage": "https://github.com/DAnselC/twitBot-RickAns#readme"
+  "homepage": "https://github.com/DAnselC/twitBot-RickAns#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
 }
